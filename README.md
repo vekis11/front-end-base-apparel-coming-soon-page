@@ -1,4 +1,4 @@
-# Enterprise CI/CD Platform for Base Apparel Frontend
+# Enterprise CI/CD Platform for Base Apparel Frontend By **Vekis Tem**
 
 ## Overview
 
